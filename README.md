@@ -16,11 +16,11 @@
 
 ***Status: Working! ✅***
 
+![2](https://github.com/daniscavkic/Hello-World/assets/99325987/6a249f99-7d66-495c-a99b-16cf3c5b4fa0)
 
 # ⚙️Functions
 
 ***🌟HWID Changer INCLUDED!***
-
 
 ### 📌Aim-bot
 
@@ -61,5 +61,3 @@
 * Show enemies
 * Show friendly
 * Color
-
-![2](https://github.com/daniscavkic/Hello-World/assets/99325987/6a249f99-7d66-495c-a99b-16cf3c5b4fa0)
